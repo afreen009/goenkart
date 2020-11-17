@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "413566577555",
+    "firebase_url": "https://goen-a28dc.firebaseio.com",
+    "project_id": "goen-a28dc",
+    "storage_bucket": "goen-a28dc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:413566577555:android:9378732183ebf1e917d666",
+        "android_client_info": {
+          "package_name": "com.go.goenkart"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "413566577555-0an9nbklsmti0kongq50iehjgjd3nati.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB2Xnw0XrwU_DPvr_dPSKtSEmeteIrLbmA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "413566577555-0an9nbklsmti0kongq50iehjgjd3nati.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
